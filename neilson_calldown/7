@@ -1,0 +1,6 @@
+      invoke  active_record
+      create    db/migrate/20160129051628_create_itemmasters.rb
+      create    app/models/itemmaster.rb
+      invoke    test_unit
+      create      test/models/itemmaster_test.rb
+      create      test/fixtures/itemmasters.yml
